@@ -44,8 +44,7 @@ int main() {
         printf("Element found at position: %d\n", result);
     }
 
-      printf("Name: Mohit-Kumar");
-     printf(" Enrollment No: 02376803124");
+      
 
 
     return 0;
